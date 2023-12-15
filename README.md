@@ -1,1 +1,1 @@
- https://user0i0.github.io/Holyday-Card/
+ https://user0i0.github.io/Holyday-Card.0.2/
